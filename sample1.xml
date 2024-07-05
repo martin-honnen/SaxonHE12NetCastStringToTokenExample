@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <item>
+    <string>   abc   </string>
+    <token>   abc   </token>
+    <date>   2024-07-01   </date>
+    <tokens>   foo   bar   baz </tokens>
+  </item>
+  <item>
+    <string>   abc   </string>
+    <token>   abc   </token>
+    <date>   2024-07-01   </date>
+    <tokens>   foo   bar   baz </tokens>
+  </item>
+</root>
